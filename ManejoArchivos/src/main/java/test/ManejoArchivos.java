@@ -4,7 +4,7 @@ import static utileria.Archivo.*;
 
 public class ManejoArchivos {
     public static void main(String[] args) {
-        String nombreArchivo="/home/skr/Documentos/Universidad_Spring_Ejercicios/Programacion Java/EntradaDatos/archivoPruebaJava33.txt";
+        String nombreArchivo="RUTA DE TU ARCHIVO";
         //Creamos un archivo
 //        crearArchivo(nombreArchivo);
         
